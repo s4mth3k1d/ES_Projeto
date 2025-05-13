@@ -8,7 +8,6 @@ public class AddSessao extends JFrame {
     private JComboBox comboBox2;
     private JButton cancelarButton;
     private JButton confirmarButton;
-    private JTextField textField3;
     private JPanel painelPrincipal;
 
 
