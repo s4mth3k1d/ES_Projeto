@@ -20,9 +20,9 @@ public class AddSessao extends JFrame {
         comboBox1.addItem("Skyfall ");
         comboBox1.addItem("John Wick");
 
-        comboBox2.addItem("Ação");
-        comboBox2.addItem("Drama");
-        comboBox2.addItem("Aventura");
+        comboBox2.addItem("Sala 1");
+        comboBox2.addItem("Sala 2");
+        comboBox2.addItem("Sala 3");
 
         comboBox1.setSelectedIndex(0);
         comboBox2.setSelectedIndex(0);
